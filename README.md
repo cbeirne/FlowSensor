@@ -3,3 +3,21 @@ The calibration files are also included, you will just need to perform calibrati
 Making file names and writing data to the file are also included.
 
 Flowometer is the main code, where all the functions are called in to
+
+Multiple Arduino libraries are needed for the program to work:
+Adafruit_BusIO
+Arduino_BuiltIn
+BlinkControl
+Ethernet
+FastLED
+Firmata
+Keyboard
+LiquidCrystal
+MegunoLink
+Mouse
+RTClib
+SD
+Servo
+Shifty
+Stepper
+TFT
